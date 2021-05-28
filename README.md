@@ -4,7 +4,7 @@ In this React Application you can get latest news based on the selected categori
 
 ## Screenshots
 
-![screenshot](https://previews.dropbox.com/p/thumb/ABKTBU9788zk23c-Zmj7AgTt7Cey88dWLkGOn9spIFhoCgCzEhNW7FZp4SjQBAk_qJR1TX-bXdAkI6OK97qjg1vUIG7OGKekR_OVXue3IMGSpgvhA38-dv922FuNS5lJ71HfNr-F0DNzM5YbX4ZHA7ZhalHdSXobFlhqQ2_Q0WI8610YVE1l_BkC7SSAQDZDecIj_AM65JS8tWjSjAtuUHjWAEEpzxj2apFiT_zwAzv5ReQwKW-zIgcWGhxHI9c0tNRNmrNkKc4bzN1-taj1rxweDPmWsFBcoJQ7OFhdLoSnXVPTDXVwfJksh0y_uzanAAQsSOjOnENP6si_RooGbL_zMJ52Ixmu15w0vMikxFNckw/p.png)
+![screenshot](https://www.dropbox.com/s/kzuxj2kmrsveg72/Capture.PNG)
 
 ## Installation and Setup Instructions
 
